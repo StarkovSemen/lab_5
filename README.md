@@ -17,6 +17,8 @@
 
 ### Тестирование
 
+<img width="890" height="842" alt="Image" src="https://github.com/user-attachments/assets/3eeb4e7d-5e2c-4fb2-a74a-7af23fb58462" />
+
 # Задание 2
 
 ### Текст задачи
@@ -35,6 +37,8 @@
 4)Выводим полученное количество
 
 ### Тестирование
+
+<img width="917" height="835" alt="Image" src="https://github.com/user-attachments/assets/8cea0fac-0751-4bcc-8f03-3137205411cd" />
 
 # Задание 4
 
@@ -60,3 +64,5 @@
 5)Вывод
 
 ### Тестирование
+
+<img width="1625" height="902" alt="Image" src="https://github.com/user-attachments/assets/499db81f-5315-4cc5-bad5-ec9fa9b4369d" />
